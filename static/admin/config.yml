@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: ghforntlfytest202002/sampling-gatsby-mdx-netlify-cms-starter
-  branch: master
+  name: test-repo
 
 media_folder: uploads/img
 public_folder: /img
